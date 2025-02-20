@@ -9,6 +9,11 @@
 <p align="center">
   <img src="https://github.com/JulRiv07/JulRiv07/blob/output/snake.svg" alt="Snake animation">
 </p>
+
+# I love programming 😎 and I love her (✨)
+
+![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
+I want to be a systems engineer **💻 I love Systems, 📱I love learn and 🌐 I love make new things ** 😉
 	
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
