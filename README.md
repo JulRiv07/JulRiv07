@@ -119,7 +119,10 @@
 <div>
   <p align="center">
 	<a href="https://github.com/JulRiv07/EstructuraDeDatos">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Udemy-Website&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=JulRiv07&repo=EstructuraDeDatos&theme=tokyonight" />
+    	</a>
+	  <a href="https://github.com/JulRiv07/Progra">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=JulRiv07&repo=Progra&theme=tokyonight" />
     	</a>
   </p>
 </div>
