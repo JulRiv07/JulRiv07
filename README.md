@@ -115,21 +115,28 @@
 	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
 </p>
 
-## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stat
-	
-<details><summary><h3> :open_file_folder: My Repositories </h3></summary>
+## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width="50px"> </picture> Github Stats
+
+<details><summary><h3> 📂 My Repositories </h3></summary>
 
 ----
-	
-<div>
-  <p align="center">
-	<a href="https://github.com/JulRiv07/EstructuraDeDatos">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=JulRiv07&repo=EstructuraDeDatos&theme=tokyonight" />
-    	</a>
-	  <a href="https://github.com/JulRiv07/Progra">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=JulRiv07&repo=Progra&theme=tokyonight" />
-    	</a>
-  </p>
+
+<div align="center">
+  <a href="https://github.com/JulRiv07/EstructuraDeDatos">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JulRiv07&repo=EstructuraDeDatos&theme=tokyonight" alt="Estructura de Datos Repo"/>
+  </a>
+  <br>
+  <img src="https://img.shields.io/github/languages/top/JulRiv07/EstructuraDeDatos?style=for-the-badge&logo=github&label=Lenguaje&color=blue" alt="Lenguaje principal EstructuraDeDatos"/>
+  
+  <br><br>
+
+  <a href="https://github.com/JulRiv07/Progra">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JulRiv07&repo=Progra&theme=tokyonight" alt="Progra Repo"/>
+  </a>
+  <br>
+  <img src="https://img.shields.io/github/languages/top/JulRiv07/Progra?style=for-the-badge&logo=github&label=Lenguaje&color=blue" alt="Lenguaje principal Progra"/>
 </div>
+
 </details>
+
 
