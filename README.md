@@ -3,7 +3,12 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Systems+Engineering+Student...;Software+Development+Technician;FullStack+Programmer;Always+learning+new+things"></a>
 </p>
 
+</br></br>
+## 🐍 A Snake Eating my Contributions Graph
 
+<p align="center">
+  <img src="https://github.com/JulRiv07/JulRiv07/blob/output/snake.svg" alt="Snake animation">
+</p>
 	
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
@@ -127,11 +132,4 @@
   </p>
 </div>
 </details>
-
-</br></br>
-## 🐍 A Snake Eating my Contributions Graph
-
-<p align="center">
-  <img src="https://github.com/JulRiv07/JulRiv07/blob/output/snake.svg" alt="Snake animation">
-</p>
 
