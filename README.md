@@ -99,7 +99,10 @@ I want to be a systems engineer **💻 I love Systems, 📱I love learn and 🌐
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/eclipse%20ide-%232C2255.svg?&style=plastic&logo=eclipse%20ide&logoColor=white" /></a>
+  &emsp;
+    <a href="#"><img alt="NetBeans" src="https://img.shields.io/badge/NetBeans-3D55A2.svg?style=plastic&logo=netbeans&logoColor=white"></a>
 </p>
+
 
  ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture> Operating Systems
  
