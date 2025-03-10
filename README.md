@@ -143,6 +143,14 @@ I want to be a systems engineer **💻 I love Systems, 📱I love learn and 🌐
   </a>
   <br>
   <img src="https://img.shields.io/github/languages/top/JulRiv07/Progra?style=for-the-badge&logo=github&label=Lenguaje&color=blue" alt="Lenguaje principal Progra"/>
+
+ <br><br>
+  <a href="https://github.com/JulRiv07/Data-structure-tasks">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JulRiv07&repo=Data-structure-tasks&theme=tokyonight" alt="Data Structure Tasks Repo"/>
+</a>
+<br>
+<img src="https://img.shields.io/github/languages/top/JulRiv07/Data-structure-tasks?style=for-the-badge&logo=github&label=Lenguaje&color=blue" alt="Lenguaje principal Data-structure-tasks"/>
+
 </div>
 
 </details>
