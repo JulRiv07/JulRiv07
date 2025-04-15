@@ -33,7 +33,6 @@ I want to be a systems engineer **💻 I love Systems, 📱I love learn and 🌐
 <p align="center">
 	<a href="mailto:Julian.rivera@utp.edu.co"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://github.com/JulRiv07"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://api.whatsapp.com/send/?phone=3117336204&text&type=phone_number&app_absent=0"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
 	<a href="https://www.instagram.com/julian_rivera007/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
 
