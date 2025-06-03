@@ -26,7 +26,7 @@ I want to be a systems engineer **💻 I love Systems, 📱I love learn and 🌐
 - :computer: I am a fullstack programmer.
 - :student: I’m currently learning `Software Development` and `Systems Engineering`.
 - :nerd_face: Constantly embracing the journey of growth, always learning new things, expanding my knowledge, and unlocking new possibilities with every experience.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://www.canva.com/design/DAGfm70w9Ag/jlBuPLz1xd4qfLPUDbqRDg/view?utm_content=DAGfm70w9Ag&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h8d52e11663).
+- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://www.canva.com/design/DAGpVImWNQ0/7CMzLUpapCJLlossf1-d0w/edit?utm_content=DAGpVImWNQ0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton).
 <br>
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
