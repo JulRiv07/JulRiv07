@@ -119,6 +119,15 @@ I enjoy learning, teaching, and creating systems that make ideas come alive 💻
   <img src="https://img.shields.io/badge/Ubuntu-E95420.svg?style=plastic&logo=ubuntu&logoColor=white">
 </p>
 
+### 🎮 Game Development
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Unity-000000?style=plastic&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scratch-4D97FF?style=plastic&logo=scratch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Minecraft%20Education-3C8527?style=plastic&logo=minecraft&logoColor=white" />
+</p>
+
+
 ---
 
 ## ⭐ Featured Repositories
@@ -129,19 +138,24 @@ I enjoy learning, teaching, and creating systems that make ideas come alive 💻
 <div align="center">
 
 <a href="https://github.com/JulRiv07/EstructuraDeDatos">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JulRiv07&repo=EstructuraDeDatos&theme=tokyonight&hide_border=true&v=2" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JulRiv07&repo=EstructuraDeDatos&theme=tokyonight&hide_border=true&v=3" />
 </a>
 
 <a href="https://github.com/JulRiv07/Progra">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JulRiv07&repo=Progra&theme=tokyonight&hide_border=true&v=2" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JulRiv07&repo=Progra&theme=tokyonight&hide_border=true&v=3" />
 </a>
 
 <a href="https://github.com/JulRiv07/Data-structure-tasks">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JulRiv07&repo=Data-structure-tasks&theme=tokyonight&hide_border=true&v=2" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JulRiv07&repo=Data-structure-tasks&theme=tokyonight&hide_border=true&v=3" />
+</a>
+
+<a href="https://github.com/JulRiv07/suntech">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JulRiv07&repo=suntech&theme=tokyonight&hide_border=true&v=3" />
 </a>
 
 </div>
 </details>
+
 
 ---
 
