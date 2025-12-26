@@ -127,32 +127,29 @@ I enjoy learning, teaching, and creating systems that make ideas come alive 💻
 <summary><h3>📂 Selected Projects</h3></summary>
 
 <div align="center">
-  <a href="https://github.com/JulRiv07/EstructuraDeDatos">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JulRiv07&repo=EstructuraDeDatos&theme=tokyonight">
-  </a>
 
-  <a href="https://github.com/JulRiv07/Progra">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JulRiv07&repo=Progra&theme=tokyonight">
-  </a>
+<a href="https://github.com/JulRiv07/EstructuraDeDatos">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JulRiv07&repo=EstructuraDeDatos&theme=tokyonight&hide_border=true&v=2" />
+</a>
 
-  <a href="https://github.com/JulRiv07/Data-structure-tasks">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JulRiv07&repo=Data-structure-tasks&theme=tokyonight">
-  </a>
+<a href="https://github.com/JulRiv07/Progra">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JulRiv07&repo=Progra&theme=tokyonight&hide_border=true&v=2" />
+</a>
+
+<a href="https://github.com/JulRiv07/Data-structure-tasks">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JulRiv07&repo=Data-structure-tasks&theme=tokyonight&hide_border=true&v=2" />
+</a>
+
 </div>
-
 </details>
 
 ---
 
-## 📚 All My Public Repositories
+## 📊 GitHub Overview
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JulRiv07&show_icons=true&theme=tokyonight&count_private=true">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulRiv07&layout=compact&theme=tokyonight">
-</p>
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JulRiv07&layout=compact&theme=tokyonight&hide_border=true&v=2" />
+</div>
 
 ---
 
