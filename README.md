@@ -149,9 +149,8 @@ I enjoy learning, teaching, and creating systems that make ideas come alive 💻
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JulRiv07&repo=Data-structure-tasks&theme=tokyonight&hide_border=true&v=3" />
 </a>
 
-<a href="https://github.com/JulRiv07/suntech">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JulRiv07&repo=suntech&theme=tokyonight&hide_border=true&v=3" />
-</a>
+
+
 
 </div>
 </details>
