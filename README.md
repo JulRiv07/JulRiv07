@@ -39,7 +39,7 @@ I enjoy learning, teaching, and creating systems that make ideas come alive 💻
 - 👨‍🏫 Experience as **programming tutor and mentor** for kids and teens
 - 🌱 Constantly learning and improving through real projects
 - 🚀 Goal: become a well-rounded **Systems Engineer** with strong software skills
-- 📄 Open to new opportunities — this is [MY RESUME](https://www.canva.com/design/DAGpVImWNQ0/7CMzLUpapCJLlossf1-d0w/edit)
+- 📄 Open to new opportunities — this is [MY RESUME](https://drive.google.com/file/d/1H7DUl7wus5S_kfZ80bVHttSnNhm5chVe/view?usp=sharing)
 
 ---
 
