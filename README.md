@@ -19,7 +19,7 @@
 
 Full-stack developer from Pereira, Colombia. I build web platforms and SaaS products end to end — from the database to the landing page that sells them.
 
-- 🏢 **Founder of [JRS Systems](https://jrssystems.tech)** — custom software and web platforms for small businesses.
+- 🏢 **Founder of [JRS Systems](https://jrssystems.tech)** — custom software and web platforms for small and large businesses.
 - 💼 **Developer at Converzzo** — built its e-learning platform from scratch, plus high-conversion landing pages and tracking (Meta Pixel, GA4, GTM).
 - 🎓 **Systems Engineering student** at Universidad Tecnológica de Pereira (UTP).
 - 👨‍🏫 **Programming instructor at Kodland** — Python, web development and Scratch for kids and teens.
