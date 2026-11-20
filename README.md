@@ -24,13 +24,13 @@ Full-stack developer from Pereira, Colombia. I build web platforms and SaaS prod
 - 🎓 **Systems Engineering student** at Universidad Tecnológica de Pereira (UTP).
 - 👨‍🏫 **Programming instructor at Kodland** — Python, web development and Scratch for kids and teens.
 
-### 🚀 What I'm building
+### 🚀 Projects
 
 | Project | What it is | Stack |
 |---|---|---|
 | **[Controla](https://github.com/JulRiv07/controla)** | Multi-tenant SaaS for small-business sales, payments, expenses and inventory | React · FastAPI · PostgreSQL · Supabase |
 | **[EnglishMaster](https://github.com/JulRiv07/englishmaster-showcase)** | Gamified English learning platform (CEFR A1–C2) with placement test, speech recognition, SRS and Stripe subscriptions | React · TypeScript · FastAPI · Supabase · Stripe |
-| **[Converzzo E-learning](https://github.com/JulRiv07/converzzo-elearning-case-study)** | E-learning marketplace I built from scratch: checkout and payments, course player, community, support, invoicing, admin back office and event QR check-in | Astro · TypeScript · Supabase · Vercel |
+| **[Converzzo E-learning](https://github.com/JulRiv07/converzzo-elearning-case-study)** | Complete e-learning marketplace I built from scratch: course catalog, cart and Wompi checkout, course player with video and progress, PDF certificates, community, support tickets, invoicing, admin back office, Black Friday campaign and event registration with QR check-in | Astro · TypeScript · Supabase · Vercel |
 
 ### 🛠️ Stack
 
