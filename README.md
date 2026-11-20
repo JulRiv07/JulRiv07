@@ -10,7 +10,7 @@
   <a href="https://jrssystems.tech/portfolio/es/"><img src="https://img.shields.io/badge/Portfolio-jrssystems.tech-C8BE25?style=flat&logo=googlechrome&logoColor=white"></a>
   <a href="mailto:julian@jrssystems.tech"><img src="https://img.shields.io/badge/Email-julian%40jrssystems.tech-EA4335?style=flat&logo=maildotru&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/juli%C3%A1n-rivera-sanchez-26299929b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
-  <a href="https://drive.google.com/file/d/1H7DUl7wus5S_kfZ80bVHttSnNhm5chVe/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-PDF-555?style=flat&logo=readdotcv&logoColor=white"></a>
+  <a href="https://github.com/JulRiv07/JulRiv07/blob/main/Julian-Rivera-CV.pdf"><img src="https://img.shields.io/badge/Resume-PDF-555?style=flat&logo=readdotcv&logoColor=white"></a>
 </p>
 
 ---
